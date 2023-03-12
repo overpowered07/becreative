@@ -1,0 +1,89 @@
+/* Body Style */
+body{
+    background-image:url(Images/Background.png);
+    text-align: center;
+    font-size: large;
+}
+/* Audio */
+audio{
+    display:none;
+}
+
+/* Coordinates */
+#demo{
+    color: white;
+}
+
+/* image */
+.archery{
+    height: 100px;
+    width: 100px;
+}
+
+.platform{
+    height: 50px;
+    width: 50px;
+}
+
+.billiards{
+    height: 100px;
+    width: 100px;
+}
+
+.template{
+    height: 300px;
+    width: 300px;
+}
+/* Title */
+.logo{
+    border-radius: 100px;
+}
+
+/* Links */
+a:link{
+    color: blue;
+}
+
+a:visited{
+    color: red;
+}
+
+a:hover{
+    color: green;
+}
+
+a:active{
+    color: yellow;
+}
+
+/* Navigation Bar */
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+
+  /* Lionmass */
+  .lion{
+    color: red;
+  }
+  .Stickman{
+    color: yellow;
+  }
